@@ -1,0 +1,5 @@
+var module = {
+  "name":"name",
+  "sigil_colour":"sigil_colour",
+  "status":"active|inactive|corrupted", 
+}
